@@ -1,0 +1,11 @@
+C:\Users\EGA\source\repos\Data Mahasiswa\OptionalDataMahasiswa\OptionalDataMahasiswa\bin\Debug\OptionalDataMahasiswa.exe.config
+C:\Users\EGA\source\repos\Data Mahasiswa\OptionalDataMahasiswa\OptionalDataMahasiswa\bin\Debug\OptionalDataMahasiswa.exe
+C:\Users\EGA\source\repos\Data Mahasiswa\OptionalDataMahasiswa\OptionalDataMahasiswa\bin\Debug\OptionalDataMahasiswa.pdb
+C:\Users\EGA\source\repos\Data Mahasiswa\OptionalDataMahasiswa\OptionalDataMahasiswa\bin\Debug\OptionalDataMahasiswa.xml
+C:\Users\EGA\source\repos\Data Mahasiswa\OptionalDataMahasiswa\OptionalDataMahasiswa\obj\Debug\OptionalDataMahasiswa.vbprojAssemblyReference.cache
+C:\Users\EGA\source\repos\Data Mahasiswa\OptionalDataMahasiswa\OptionalDataMahasiswa\obj\Debug\OptionalDataMahasiswa.Form1.resources
+C:\Users\EGA\source\repos\Data Mahasiswa\OptionalDataMahasiswa\OptionalDataMahasiswa\obj\Debug\OptionalDataMahasiswa.Resources.resources
+C:\Users\EGA\source\repos\Data Mahasiswa\OptionalDataMahasiswa\OptionalDataMahasiswa\obj\Debug\OptionalDataMahasiswa.vbproj.GenerateResource.cache
+C:\Users\EGA\source\repos\Data Mahasiswa\OptionalDataMahasiswa\OptionalDataMahasiswa\obj\Debug\OptionalDataMahasiswa.exe
+C:\Users\EGA\source\repos\Data Mahasiswa\OptionalDataMahasiswa\OptionalDataMahasiswa\obj\Debug\OptionalDataMahasiswa.xml
+C:\Users\EGA\source\repos\Data Mahasiswa\OptionalDataMahasiswa\OptionalDataMahasiswa\obj\Debug\OptionalDataMahasiswa.pdb

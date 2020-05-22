@@ -1,0 +1,14 @@
+C:\Users\EGA\source\repos\Ekspedisi\Ekspedisi\bin\Debug\Ekspedisi.exe.config
+C:\Users\EGA\source\repos\Ekspedisi\Ekspedisi\bin\Debug\Ekspedisi.exe
+C:\Users\EGA\source\repos\Ekspedisi\Ekspedisi\bin\Debug\Ekspedisi.pdb
+C:\Users\EGA\source\repos\Ekspedisi\Ekspedisi\obj\Debug\Ekspedisi.csprojAssemblyReference.cache
+C:\Users\EGA\source\repos\Ekspedisi\Ekspedisi\obj\Debug\Ekspedisi.Form1.resources
+C:\Users\EGA\source\repos\Ekspedisi\Ekspedisi\obj\Debug\Ekspedisi.Properties.Resources.resources
+C:\Users\EGA\source\repos\Ekspedisi\Ekspedisi\obj\Debug\Ekspedisi.csproj.GenerateResource.cache
+C:\Users\EGA\source\repos\Ekspedisi\Ekspedisi\obj\Debug\Ekspedisi.exe
+C:\Users\EGA\source\repos\Ekspedisi\Ekspedisi\obj\Debug\Ekspedisi.pdb
+C:\Users\EGA\source\repos\Ekspedisi\Ekspedisi\obj\Debug\Ekspedisi.FormKirim.resources
+C:\Users\EGA\source\repos\Ekspedisi\Ekspedisi\obj\Debug\Ekspedisi.FormCekTarif.resources
+C:\Users\EGA\source\repos\Ekspedisi\Ekspedisi\obj\Debug\Ekspedisi.FormKamiAsli.resources
+C:\Users\EGA\source\repos\Ekspedisi\Ekspedisi\obj\Debug\Ekspedisi.FormLacakPaket.resources
+C:\Users\EGA\source\repos\Ekspedisi\Ekspedisi\obj\Debug\Ekspedisi.FormCS.resources
